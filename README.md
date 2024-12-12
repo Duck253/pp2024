@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Khương Bảo Đức 
+* Student Name: Khuong Bao Duc 
 * Student ID: 22BA13077
   
 
