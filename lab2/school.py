@@ -18,7 +18,7 @@ class School:
             name = input("Enter course name: ")
             self.courses.append(Course(course_id,name))
     def input_marks(self):
-        student_id = int(input("Enter student ID: "))
+        student_id = input("Enter student ID: ")
         course_id = input("Enter course ID: ")
         marks = float(input("Enter mark for the student:"))
 
